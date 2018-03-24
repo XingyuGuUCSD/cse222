@@ -1,0 +1,228 @@
+==== 70-70-8B-D2-DB-6D ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 4.0584,
+  max: 13.063,
+  min: 2.699,
+  results: 
+   [ { seq: 0, time: 13.063 },
+     { seq: 1, time: 3.371 },
+     { seq: 2, time: 3.219 },
+     { seq: 3, time: 3.298 },
+     { seq: 4, time: 2.903 },
+     { seq: 5, time: 2.883 },
+     { seq: 6, time: 3.39 },
+     { seq: 7, time: 2.699 },
+     { seq: 8, time: 2.837 },
+     { seq: 9, time: 2.921 } ] }
+==== 70-70-8B-D2-DB-62 ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 25.2662,
+  max: 53.647,
+  min: 4.939,
+  results: 
+   [ { seq: 0, time: 47.984 },
+     { seq: 1, time: 37.382 },
+     { seq: 2, time: 8.234 },
+     { seq: 3, time: 4.939 },
+     { seq: 4, time: 24.625 },
+     { seq: 5, time: 25.817 },
+     { seq: 6, time: 9.745 },
+     { seq: 7, time: 53.647 },
+     { seq: 8, time: 23.525 },
+     { seq: 9, time: 16.764 } ] }
+==== 38-90-A5-6B-C3-AD ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 7.3667,
+  max: 26.882,
+  min: 3.129,
+  results: 
+   [ { seq: 0, time: 26.882 },
+     { seq: 1, time: 4.941 },
+     { seq: 2, time: 3.557 },
+     { seq: 3, time: 7.925 },
+     { seq: 4, time: 4.517 },
+     { seq: 5, time: 3.129 },
+     { seq: 6, time: 4.037 },
+     { seq: 7, time: 5.027 },
+     { seq: 8, time: 8.224 },
+     { seq: 9, time: 5.428 } ] }
+==== 88-75-56-87-A4-6D ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 8.6701,
+  max: 22.636,
+  min: 4.295,
+  results: 
+   [ { seq: 0, time: 14.455 },
+     { seq: 1, time: 4.295 },
+     { seq: 2, time: 4.495 },
+     { seq: 3, time: 5.389 },
+     { seq: 4, time: 12.503 },
+     { seq: 5, time: 22.636 },
+     { seq: 6, time: 6.225 },
+     { seq: 7, time: 5.413 },
+     { seq: 8, time: 5.164 },
+     { seq: 9, time: 6.126 } ] }
+==== 00-3A-7D-76-F8-0D ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 6.6282,
+  max: 23.601,
+  min: 3.603,
+  results: 
+   [ { seq: 0, time: 23.601 },
+     { seq: 1, time: 5.4 },
+     { seq: 2, time: 4.507 },
+     { seq: 3, time: 4.209 },
+     { seq: 4, time: 4.525 },
+     { seq: 5, time: 3.603 },
+     { seq: 6, time: 4.081 },
+     { seq: 7, time: 5.513 },
+     { seq: 8, time: 5.274 },
+     { seq: 9, time: 5.569 } ] }
+==== E8-65-49-EA-9E-0D ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 8.6986,
+  max: 16.978,
+  min: 5.021,
+  results: 
+   [ { seq: 0, time: 12.659 },
+     { seq: 1, time: 11.984 },
+     { seq: 2, time: 16.978 },
+     { seq: 3, time: 7.526 },
+     { seq: 4, time: 8.433 },
+     { seq: 5, time: 7.703 },
+     { seq: 6, time: 5.467 },
+     { seq: 7, time: 5.548 },
+     { seq: 8, time: 5.667 },
+     { seq: 9, time: 5.021 } ] }
+==== 70-70-8B-05-B5-C2 ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 7.501900000000001,
+  max: 19.615,
+  min: 3.683,
+  results: 
+   [ { seq: 0, time: 16.574 },
+     { seq: 1, time: 5.869 },
+     { seq: 2, time: 4.527 },
+     { seq: 3, time: 19.615 },
+     { seq: 4, time: 3.819 },
+     { seq: 5, time: 4.274 },
+     { seq: 6, time: 7.068 },
+     { seq: 7, time: 4.928 },
+     { seq: 8, time: 4.662 },
+     { seq: 9, time: 3.683 } ] }
+==== 70-70-8B-D1-B9-CD ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 11.493800000000002,
+  max: 48.541,
+  min: 3.697,
+  results: 
+   [ { seq: 0, time: 48.541 },
+     { seq: 1, time: 8.382 },
+     { seq: 2, time: 6.271 },
+     { seq: 3, time: 7.616 },
+     { seq: 4, time: 7.873 },
+     { seq: 5, time: 10.791 },
+     { seq: 6, time: 7.132 },
+     { seq: 7, time: 8.239 },
+     { seq: 8, time: 6.396 },
+     { seq: 9, time: 3.697 } ] }
+==== E8-65-49-62-4F-0D ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 7.3006,
+  max: 16.24,
+  min: 4.275,
+  results: 
+   [ { seq: 0, time: 7.208 },
+     { seq: 1, time: 7.143 },
+     { seq: 2, time: 4.644 },
+     { seq: 3, time: 4.275 },
+     { seq: 4, time: 4.785 },
+     { seq: 5, time: 4.833 },
+     { seq: 6, time: 5.4 },
+     { seq: 7, time: 16.24 },
+     { seq: 8, time: 9.974 },
+     { seq: 9, time: 8.504 } ] }
+==== 38-90-A5-F1-2D-6D ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 10.1851,
+  max: 24.218,
+  min: 4.346,
+  results: 
+   [ { seq: 0, time: 7.115 },
+     { seq: 1, time: 9.057 },
+     { seq: 2, time: 5.467 },
+     { seq: 3, time: 4.346 },
+     { seq: 4, time: 5.475 },
+     { seq: 5, time: 11.55 },
+     { seq: 6, time: 6.722 },
+     { seq: 7, time: 24.218 },
+     { seq: 8, time: 18.283 },
+     { seq: 9, time: 9.618 } ] }
+==== 38-90-A5-78-45-AD ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 6.799899999999999,
+  max: 24.237,
+  min: 3.27,
+  results: 
+   [ { seq: 0, time: 24.237 },
+     { seq: 1, time: 6.448 },
+     { seq: 2, time: 5.859 },
+     { seq: 3, time: 4.975 },
+     { seq: 4, time: 4.576 },
+     { seq: 5, time: 4.827 },
+     { seq: 6, time: 3.923 },
+     { seq: 7, time: 4.831 },
+     { seq: 8, time: 5.053 },
+     { seq: 9, time: 3.27 } ] }
+==== 0C-68-03-AF-45-3D ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 6.9654,
+  max: 25.276,
+  min: 3.788,
+  results: 
+   [ { seq: 0, time: 25.276 },
+     { seq: 1, time: 5.417 },
+     { seq: 2, time: 4.167 },
+     { seq: 3, time: 4.33 },
+     { seq: 4, time: 3.788 },
+     { seq: 5, time: 7.205 },
+     { seq: 6, time: 5.353 },
+     { seq: 7, time: 4.648 },
+     { seq: 8, time: 4.002 },
+     { seq: 9, time: 5.468 } ] }

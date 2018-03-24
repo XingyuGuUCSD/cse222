@@ -1,0 +1,627 @@
+==== A0-3D-6F-0B-BC-40 ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 3.5285,
+  max: 5.42,
+  min: 2.359,
+  results: 
+   [ { seq: 0, time: 5.42 },
+     { seq: 1, time: 4.557 },
+     { seq: 2, time: 2.518 },
+     { seq: 3, time: 2.704 },
+     { seq: 4, time: 3.096 },
+     { seq: 5, time: 3.676 },
+     { seq: 6, time: 3.214 },
+     { seq: 7, time: 2.359 },
+     { seq: 8, time: 4.576 },
+     { seq: 9, time: 3.165 } ] }
+==== A0-3D-6F-3A-BA-E0 ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 5.1932,
+  max: 6.99,
+  min: 3.407,
+  results: 
+   [ { seq: 0, time: 6.571 },
+     { seq: 1, time: 6.99 },
+     { seq: 2, time: 3.614 },
+     { seq: 3, time: 5.527 },
+     { seq: 4, time: 4.739 },
+     { seq: 5, time: 5.872 },
+     { seq: 6, time: 5.199 },
+     { seq: 7, time: 5.441 },
+     { seq: 8, time: 4.572 },
+     { seq: 9, time: 3.407 } ] }
+==== A0-3D-6F-4C-9D-C0 ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 6.111700000000001,
+  max: 17.884,
+  min: 2.687,
+  results: 
+   [ { seq: 0, time: 17.884 },
+     { seq: 1, time: 3.573 },
+     { seq: 2, time: 2.687 },
+     { seq: 3, time: 5.494 },
+     { seq: 4, time: 5.293 },
+     { seq: 5, time: 5.181 },
+     { seq: 6, time: 7.223 },
+     { seq: 7, time: 3.935 },
+     { seq: 8, time: 7.091 },
+     { seq: 9, time: 2.756 } ] }
+==== A0-3D-6F-33-F4-A0 ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 5.2284999999999995,
+  max: 15.765,
+  min: 2.26,
+  results: 
+   [ { seq: 0, time: 12.727 },
+     { seq: 1, time: 15.765 },
+     { seq: 2, time: 2.513 },
+     { seq: 3, time: 2.341 },
+     { seq: 4, time: 2.294 },
+     { seq: 5, time: 2.632 },
+     { seq: 6, time: 2.26 },
+     { seq: 7, time: 3.071 },
+     { seq: 8, time: 6.173 },
+     { seq: 9, time: 2.509 } ] }
+==== A0-3D-6F-33-FF-80 ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 7.804899999999999,
+  max: 19.827,
+  min: 3.173,
+  results: 
+   [ { seq: 0, time: 19.827 },
+     { seq: 1, time: 3.941 },
+     { seq: 2, time: 3.173 },
+     { seq: 3, time: 3.628 },
+     { seq: 4, time: 6.601 },
+     { seq: 5, time: 7.979 },
+     { seq: 6, time: 4.524 },
+     { seq: 7, time: 5.832 },
+     { seq: 8, time: 16.804 },
+     { seq: 9, time: 5.74 } ] }
+==== 00-6B-F1-A7-08-A0 ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 4.3686,
+  max: 10.975,
+  min: 2.528,
+  results: 
+   [ { seq: 0, time: 10.975 },
+     { seq: 1, time: 5.507 },
+     { seq: 2, time: 3.968 },
+     { seq: 3, time: 3.697 },
+     { seq: 4, time: 3.62 },
+     { seq: 5, time: 2.965 },
+     { seq: 6, time: 2.987 },
+     { seq: 7, time: 3.21 },
+     { seq: 8, time: 2.528 },
+     { seq: 9, time: 4.229 } ] }
+==== 00-6B-F1-A7-09-6F ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 14.301600000000002,
+  max: 17.055,
+  min: 6.61,
+  results: 
+   [ { seq: 0, time: 17.055 },
+     { seq: 1, time: 6.61 },
+     { seq: 2, time: 14.434 },
+     { seq: 3, time: 15.382 },
+     { seq: 4, time: 14.894 },
+     { seq: 5, time: 13.833 },
+     { seq: 6, time: 15.935 },
+     { seq: 7, time: 14.959 },
+     { seq: 8, time: 15.025 },
+     { seq: 9, time: 14.889 } ] }
+==== E8-BA-70-60-21-60 ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 4.63,
+  max: 10.978,
+  min: 2.882,
+  results: 
+   [ { seq: 0, time: 10.978 },
+     { seq: 1, time: 3.213 },
+     { seq: 2, time: 2.994 },
+     { seq: 3, time: 3.549 },
+     { seq: 4, time: 2.882 },
+     { seq: 5, time: 10.494 },
+     { seq: 6, time: 3.006 },
+     { seq: 7, time: 3.055 },
+     { seq: 8, time: 2.911 },
+     { seq: 9, time: 3.218 } ] }
+==== 00-6B-F1-F5-7C-A0 ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 6.2186,
+  max: 15.552,
+  min: 2.922,
+  results: 
+   [ { seq: 0, time: 6.233 },
+     { seq: 1, time: 15.552 },
+     { seq: 2, time: 2.922 },
+     { seq: 3, time: 8.109 },
+     { seq: 4, time: 6.189 },
+     { seq: 5, time: 3.491 },
+     { seq: 6, time: 4.712 },
+     { seq: 7, time: 6.197 },
+     { seq: 8, time: 5.497 },
+     { seq: 9, time: 3.284 } ] }
+==== A0-3D-6F-4C-9D-CF ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 2.9555,
+  max: 7.15,
+  min: 2.019,
+  results: 
+   [ { seq: 0, time: 4.949 },
+     { seq: 1, time: 7.15 },
+     { seq: 2, time: 2.318 },
+     { seq: 3, time: 2.227 },
+     { seq: 4, time: 2.21 },
+     { seq: 5, time: 2.309 },
+     { seq: 6, time: 2.139 },
+     { seq: 7, time: 2.161 },
+     { seq: 8, time: 2.073 },
+     { seq: 9, time: 2.019 } ] }
+==== 00-6B-F1-A7-08-AF ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 3.4920999999999998,
+  max: 7.543,
+  min: 2.101,
+  results: 
+   [ { seq: 0, time: 4.367 },
+     { seq: 1, time: 7.543 },
+     { seq: 2, time: 2.191 },
+     { seq: 3, time: 2.215 },
+     { seq: 4, time: 4.264 },
+     { seq: 5, time: 2.671 },
+     { seq: 6, time: 2.46 },
+     { seq: 7, time: 2.89 },
+     { seq: 8, time: 2.101 },
+     { seq: 9, time: 4.219 } ] }
+==== A0-3D-6F-3A-BE-21 ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 15.820399999999998,
+  max: 27.637,
+  min: 8.194,
+  results: 
+   [ { seq: 0, time: 27.637 },
+     { seq: 1, time: 8.194 },
+     { seq: 2, time: 15.441 },
+     { seq: 3, time: 14.556 },
+     { seq: 4, time: 15.151 },
+     { seq: 5, time: 15.409 },
+     { seq: 6, time: 16.028 },
+     { seq: 7, time: 15.485 },
+     { seq: 8, time: 15.192 },
+     { seq: 9, time: 15.111 } ] }
+==== A0-3D-6F-0B-A4-CE ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 15.690999999999999,
+  max: 25.651,
+  min: 8.331,
+  results: 
+   [ { seq: 0, time: 25.651 },
+     { seq: 1, time: 8.331 },
+     { seq: 2, time: 15.017 },
+     { seq: 3, time: 15.424 },
+     { seq: 4, time: 15.405 },
+     { seq: 5, time: 15.305 },
+     { seq: 6, time: 15.151 },
+     { seq: 7, time: 16.082 },
+     { seq: 8, time: 15.123 },
+     { seq: 9, time: 15.421 } ] }
+==== A0-3D-6F-0B-A4-C1 ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 18.462699999999998,
+  max: 56.522,
+  min: 7.11,
+  results: 
+   [ { seq: 0, time: 56.522 },
+     { seq: 1, time: 7.11 },
+     { seq: 2, time: 15.564 },
+     { seq: 3, time: 15.58 },
+     { seq: 4, time: 12.055 },
+     { seq: 5, time: 17.955 },
+     { seq: 6, time: 12.787 },
+     { seq: 7, time: 14.76 },
+     { seq: 8, time: 16.144 },
+     { seq: 9, time: 16.15 } ] }
+==== A0-3D-6F-5C-3C-81 ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 15.5549,
+  max: 25.145,
+  min: 10.964,
+  results: 
+   [ { seq: 0, time: 25.145 },
+     { seq: 1, time: 12.711 },
+     { seq: 2, time: 15.56 },
+     { seq: 3, time: 10.964 },
+     { seq: 4, time: 15.216 },
+     { seq: 5, time: 14.807 },
+     { seq: 6, time: 15.022 },
+     { seq: 7, time: 15.384 },
+     { seq: 8, time: 15.486 },
+     { seq: 9, time: 15.254 } ] }
+==== F0-7F-06-E0-2F-41 ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 16.5764,
+  max: 26.728,
+  min: 13.224,
+  results: 
+   [ { seq: 0, time: 26.728 },
+     { seq: 1, time: 18.845 },
+     { seq: 2, time: 13.224 },
+     { seq: 3, time: 14.557 },
+     { seq: 4, time: 15.407 },
+     { seq: 5, time: 15.857 },
+     { seq: 6, time: 15.672 },
+     { seq: 7, time: 14.816 },
+     { seq: 8, time: 15.669 },
+     { seq: 9, time: 14.989 } ] }
+==== A0-3D-6F-0B-BF-A1 ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 13.838399999999998,
+  max: 16.772,
+  min: 8.542,
+  results: 
+   [ { seq: 0, time: 13.3 },
+     { seq: 1, time: 8.542 },
+     { seq: 2, time: 16.772 },
+     { seq: 3, time: 12.707 },
+     { seq: 4, time: 15.591 },
+     { seq: 5, time: 13.061 },
+     { seq: 6, time: 15.456 },
+     { seq: 7, time: 15.112 },
+     { seq: 8, time: 13.487 },
+     { seq: 9, time: 14.356 } ] }
+==== A0-3D-6F-33-F4-A1 ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 15.551000000000002,
+  max: 25.522,
+  min: 8.366,
+  results: 
+   [ { seq: 0, time: 25.522 },
+     { seq: 1, time: 8.366 },
+     { seq: 2, time: 15.255 },
+     { seq: 3, time: 14.597 },
+     { seq: 4, time: 15.958 },
+     { seq: 5, time: 16.411 },
+     { seq: 6, time: 14.42 },
+     { seq: 7, time: 14.501 },
+     { seq: 8, time: 14.436 },
+     { seq: 9, time: 16.044 } ] }
+==== 00-6B-F1-A7-09-61 ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 5.331199999999999,
+  max: 21.185,
+  min: 2.745,
+  results: 
+   [ { seq: 0, time: 21.185 },
+     { seq: 1, time: 4.202 },
+     { seq: 2, time: 3.9 },
+     { seq: 3, time: 2.745 },
+     { seq: 4, time: 3.357 },
+     { seq: 5, time: 3.172 },
+     { seq: 6, time: 3.065 },
+     { seq: 7, time: 3.509 },
+     { seq: 8, time: 4.184 },
+     { seq: 9, time: 3.993 } ] }
+==== 00-6B-F1-A7-08-A1 ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 16.311299999999996,
+  max: 24.971,
+  min: 14.302,
+  results: 
+   [ { seq: 0, time: 24.971 },
+     { seq: 1, time: 16.009 },
+     { seq: 2, time: 15.421 },
+     { seq: 3, time: 14.302 },
+     { seq: 4, time: 16.389 },
+     { seq: 5, time: 14.309 },
+     { seq: 6, time: 15.687 },
+     { seq: 7, time: 15.343 },
+     { seq: 8, time: 15.101 },
+     { seq: 9, time: 15.581 } ] }
+==== A0-3D-6F-3A-BA-EE ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 14.420599999999999,
+  max: 17.427,
+  min: 8.104,
+  results: 
+   [ { seq: 0, time: 15.034 },
+     { seq: 1, time: 8.104 },
+     { seq: 2, time: 14.9 },
+     { seq: 3, time: 15.297 },
+     { seq: 4, time: 15.645 },
+     { seq: 5, time: 15.307 },
+     { seq: 6, time: 14.694 },
+     { seq: 7, time: 16.251 },
+     { seq: 8, time: 17.427 },
+     { seq: 9, time: 11.547 } ] }
+==== 00-6B-F1-A7-09-6E ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 14.458100000000002,
+  max: 15.683,
+  min: 9.129,
+  results: 
+   [ { seq: 0, time: 9.129 },
+     { seq: 1, time: 12.361 },
+     { seq: 2, time: 15.259 },
+     { seq: 3, time: 15.491 },
+     { seq: 4, time: 14.693 },
+     { seq: 5, time: 15.224 },
+     { seq: 6, time: 15.683 },
+     { seq: 7, time: 15.648 },
+     { seq: 8, time: 15.447 },
+     { seq: 9, time: 15.646 } ] }
+==== A0-3D-6F-33-F4-AE ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 17.2886,
+  max: 39.828,
+  min: 11.412,
+  results: 
+   [ { seq: 0, time: 39.828 },
+     { seq: 1, time: 11.412 },
+     { seq: 2, time: 15.917 },
+     { seq: 3, time: 13.768 },
+     { seq: 4, time: 15.12 },
+     { seq: 5, time: 15.37 },
+     { seq: 6, time: 16.33 },
+     { seq: 7, time: 15.099 },
+     { seq: 8, time: 14.323 },
+     { seq: 9, time: 15.719 } ] }
+==== A0-3D-6F-0B-BC-41 ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 15.764499999999998,
+  max: 25.215,
+  min: 8.686,
+  results: 
+   [ { seq: 0, time: 25.215 },
+     { seq: 1, time: 8.686 },
+     { seq: 2, time: 14.855 },
+     { seq: 3, time: 15.016 },
+     { seq: 4, time: 15.365 },
+     { seq: 5, time: 14.902 },
+     { seq: 6, time: 15.327 },
+     { seq: 7, time: 14.812 },
+     { seq: 8, time: 15.309 },
+     { seq: 9, time: 18.158 } ] }
+==== A0-3D-6F-3A-BA-E1 ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 17.211299999999998,
+  max: 37.174,
+  min: 13.347,
+  results: 
+   [ { seq: 0, time: 37.174 },
+     { seq: 1, time: 14.213 },
+     { seq: 2, time: 15.687 },
+     { seq: 3, time: 13.347 },
+     { seq: 4, time: 15.844 },
+     { seq: 5, time: 15.103 },
+     { seq: 6, time: 15.263 },
+     { seq: 7, time: 15.211 },
+     { seq: 8, time: 15.278 },
+     { seq: 9, time: 14.993 } ] }
+==== A0-3D-6F-4C-9D-C1 ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 15.6649,
+  max: 20.293,
+  min: 12.255,
+  results: 
+   [ { seq: 0, time: 17.569 },
+     { seq: 1, time: 20.293 },
+     { seq: 2, time: 15.54 },
+     { seq: 3, time: 12.255 },
+     { seq: 4, time: 15.583 },
+     { seq: 5, time: 15.007 },
+     { seq: 6, time: 15.362 },
+     { seq: 7, time: 15.101 },
+     { seq: 8, time: 15.511 },
+     { seq: 9, time: 14.428 } ] }
+==== E8-BA-70-60-21-61 ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 14.2698,
+  max: 15.873,
+  min: 11.433,
+  results: 
+   [ { seq: 0, time: 11.433 },
+     { seq: 1, time: 13.498 },
+     { seq: 2, time: 14.679 },
+     { seq: 3, time: 14.492 },
+     { seq: 4, time: 14.529 },
+     { seq: 5, time: 15.873 },
+     { seq: 6, time: 13.294 },
+     { seq: 7, time: 15.608 },
+     { seq: 8, time: 15.04 },
+     { seq: 9, time: 14.252 } ] }
+==== A0-3D-6F-53-7F-81 ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 13.9065,
+  max: 20.321,
+  min: 3.479,
+  results: 
+   [ { seq: 0, time: 20.321 },
+     { seq: 1, time: 8.399 },
+     { seq: 2, time: 14.8 },
+     { seq: 3, time: 15.244 },
+     { seq: 4, time: 15.389 },
+     { seq: 5, time: 14.777 },
+     { seq: 6, time: 15.994 },
+     { seq: 7, time: 15.261 },
+     { seq: 8, time: 15.401 },
+     { seq: 9, time: 3.479 } ] }
+==== 00-6B-F1-F5-7C-A1 ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 15.107499999999998,
+  max: 24.31,
+  min: 8.376,
+  results: 
+   [ { seq: 0, time: 24.31 },
+     { seq: 1, time: 8.376 },
+     { seq: 2, time: 15.265 },
+     { seq: 3, time: 11.359 },
+     { seq: 4, time: 17.121 },
+     { seq: 5, time: 13.256 },
+     { seq: 6, time: 15.326 },
+     { seq: 7, time: 15.856 },
+     { seq: 8, time: 15.036 },
+     { seq: 9, time: 15.17 } ] }
+==== A0-3D-6F-33-FF-8E ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 11.6726,
+  max: 23.509,
+  min: 3.683,
+  results: 
+   [ { seq: 0, time: 23.509 },
+     { seq: 1, time: 13.548 },
+     { seq: 2, time: 14.948 },
+     { seq: 3, time: 15.622 },
+     { seq: 4, time: 17.77 },
+     { seq: 5, time: 12.432 },
+     { seq: 6, time: 5.904 },
+     { seq: 7, time: 3.683 },
+     { seq: 8, time: 5.43 },
+     { seq: 9, time: 3.88 } ] }
+==== A0-3D-6F-4C-9D-CE ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 15.940099999999997,
+  max: 27.914,
+  min: 13.116,
+  results: 
+   [ { seq: 0, time: 27.914 },
+     { seq: 1, time: 15.252 },
+     { seq: 2, time: 13.116 },
+     { seq: 3, time: 14.816 },
+     { seq: 4, time: 13.543 },
+     { seq: 5, time: 15.792 },
+     { seq: 6, time: 14.086 },
+     { seq: 7, time: 13.305 },
+     { seq: 8, time: 16.474 },
+     { seq: 9, time: 15.103 } ] }
+==== 00-6B-F1-A7-08-AE ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 14.270199999999999,
+  max: 21.163,
+  min: 5.867,
+  results: 
+   [ { seq: 0, time: 17.104 },
+     { seq: 1, time: 5.867 },
+     { seq: 2, time: 19.647 },
+     { seq: 3, time: 10.194 },
+     { seq: 4, time: 16.807 },
+     { seq: 5, time: 12.349 },
+     { seq: 6, time: 21.163 },
+     { seq: 7, time: 11.074 },
+     { seq: 8, time: 19.028 },
+     { seq: 9, time: 9.469 } ] }
+==== E8-BA-70-60-21-6E ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 17.202800000000003,
+  max: 36.261,
+  min: 13.348,
+  results: 
+   [ { seq: 0, time: 36.261 },
+     { seq: 1, time: 14.578 },
+     { seq: 2, time: 16.051 },
+     { seq: 3, time: 13.372 },
+     { seq: 4, time: 14.916 },
+     { seq: 5, time: 15.35 },
+     { seq: 6, time: 17.91 },
+     { seq: 7, time: 13.348 },
+     { seq: 8, time: 15.193 },
+     { seq: 9, time: 15.049 } ] }

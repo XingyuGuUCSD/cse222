@@ -1,0 +1,136 @@
+==================================================
+SSID              : UCSD-GUEST
+MAC Address       : D0-C7-89-66-87-BD
+PHY Type          : 802.11n
+RSSI              : -75
+Signal Quality    : 52
+Average Signal Quality: 54.1
+Frequency         : 5.500
+Channel           : 100
+Information Size  : 245
+Elements Count    : 19
+Company           : Cisco Systems, Inc
+Router Model      : 
+Router Name       : 
+Security          : None
+Cipher            : None
+Maximum Speed     : 450 Mbps
+Channel Width     : 40 MHz
+Channels Range    : 98 - 106
+BSS Type          : Infrastructure
+WPS Support       : No
+First Detection   : 3/17/2018 6:04:57 PM
+Last Detection    : 3/17/2018 6:09:27 PM
+Detection Count   : 31
+Start Time        : 2/7/2018 4:25:53 PM
+Minimum Signal Quality: 48
+Maximum Signal Quality: 67
+802.11 Standards  : 802.11d/e/h
+Connected         : No
+Stations Count    : 15
+Channel Utilization: 9.8%
+Description       : 
+==================================================
+
+==================================================
+SSID              : UCSD-GUEST
+MAC Address       : 00-F6-63-A1-6B-8D
+PHY Type          : 802.11n/ac
+RSSI              : -78
+Signal Quality    : 52
+Average Signal Quality: 50.6
+Frequency         : 5.300
+Channel           : 60
+Information Size  : 268
+Elements Count    : 22
+Company           : Cisco Systems, Inc
+Router Model      : 
+Router Name       : 
+Security          : None
+Cipher            : None
+Maximum Speed     : 1300 Mbps
+Channel Width     : 80 MHz
+Channels Range    : 58 - 74
+BSS Type          : Infrastructure
+WPS Support       : No
+First Detection   : 3/17/2018 6:04:57 PM
+Last Detection    : 3/17/2018 6:09:31 PM
+Detection Count   : 52
+Start Time        : 3/9/2018 3:18:17 PM
+Minimum Signal Quality: 47
+Maximum Signal Quality: 53
+802.11 Standards  : 802.11d/e/h
+Connected         : No
+Stations Count    : 2
+Channel Utilization: 2.0%
+Description       : 
+==================================================
+
+==================================================
+SSID              : UCSD-GUEST
+MAC Address       : D0-C7-89-C6-55-CD
+PHY Type          : 802.11n
+RSSI              : -89
+Signal Quality    : 21
+Average Signal Quality: 22.7
+Frequency         : 5.300
+Channel           : 60
+Information Size  : 245
+Elements Count    : 19
+Company           : Cisco Systems, Inc
+Router Model      : 
+Router Name       : 
+Security          : None
+Cipher            : None
+Maximum Speed     : 450 Mbps
+Channel Width     : 40 MHz
+Channels Range    : 58 - 66
+BSS Type          : Infrastructure
+WPS Support       : No
+First Detection   : 3/17/2018 6:04:45 PM
+Last Detection    : 3/17/2018 6:09:31 PM
+Detection Count   : 49
+Start Time        : 2/7/2018 4:17:13 PM
+Minimum Signal Quality: 18
+Maximum Signal Quality: 35
+802.11 Standards  : 802.11d/e/h
+Connected         : No
+Stations Count    : 5
+Channel Utilization: 3.1%
+Description       : 
+==================================================
+
+==================================================
+SSID              : UCSD-GUEST
+MAC Address       : 20-3A-07-6F-63-7D
+PHY Type          : 802.11n
+RSSI              : -91
+Signal Quality    : 18
+Average Signal Quality: 15.3
+Frequency         : 5.785
+Channel           : 157
+Information Size  : 245
+Elements Count    : 19
+Company           : Cisco Systems, Inc
+Router Model      : 
+Router Name       : 
+Security          : None
+Cipher            : None
+Maximum Speed     : 450 Mbps
+Channel Width     : 40 MHz
+Channels Range    : 155 - 163
+BSS Type          : Infrastructure
+WPS Support       : No
+First Detection   : 3/17/2018 6:05:25 PM
+Last Detection    : 3/17/2018 6:08:51 PM
+Detection Count   : 16
+Start Time        : 2/7/2018 4:30:37 PM
+Minimum Signal Quality: 7
+Maximum Signal Quality: 21
+802.11 Standards  : 802.11d/e/h
+Connected         : No
+Stations Count    : 7
+Channel Utilization: 3.5%
+Description       : 
+==================================================
+

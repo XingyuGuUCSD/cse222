@@ -1,0 +1,102 @@
+==================================================
+SSID              : UCSD-PROTECTED
+MAC Address       : 00-3A-7D-8A-95-8F
+PHY Type          : 802.11n/ac
+RSSI              : -75
+Signal Quality    : 50
+Average Signal Quality: 53.0
+Frequency         : 5.220
+Channel           : 44
+Information Size  : 287
+Elements Count    : 22
+Company           : Cisco Systems, Inc
+Router Model      : 
+Router Name       : 
+Security          : WPA2-EAP
+Cipher            : CCMP
+Maximum Speed     : 1300 Mbps
+Channel Width     : 80 MHz
+Channels Range    : 42 - 58
+BSS Type          : Infrastructure
+WPS Support       : No
+First Detection   : 3/17/2018 6:04:45 PM
+Last Detection    : 3/17/2018 6:09:31 PM
+Detection Count   : 48
+Start Time        : 3/1/2018 5:03:34 PM
+Minimum Signal Quality: 50
+Maximum Signal Quality: 67
+802.11 Standards  : 802.11d/e/h/i
+Connected         : No
+Stations Count    : 3
+Channel Utilization: 21.6%
+Description       : 
+==================================================
+
+==================================================
+SSID              : UCSD-PROTECTED
+MAC Address       : 38-90-A5-F1-2D-6F
+PHY Type          : 802.11n/ac
+RSSI              : -73
+Signal Quality    : 52
+Average Signal Quality: 60.4
+Frequency         : 5.500
+Channel           : 100
+Information Size  : 293
+Elements Count    : 15
+Company           : Cisco Systems, Inc
+Router Model      : 
+Router Name       : 
+Security          : WPA2-EAP
+Cipher            : CCMP
+Maximum Speed     : 1300 Mbps
+Channel Width     : 80 MHz
+Channels Range    : 98 - 114
+BSS Type          : Infrastructure
+WPS Support       : No
+First Detection   : 3/17/2018 6:04:45 PM
+Last Detection    : 3/17/2018 6:09:31 PM
+Detection Count   : 68
+Start Time        : 2/14/2018 2:15:41 PM
+Minimum Signal Quality: 48
+Maximum Signal Quality: 72
+802.11 Standards  : 802.11d/e/i
+Connected         : No
+Stations Count    : 10
+Channel Utilization: 18.8%
+Description       : 
+==================================================
+
+==================================================
+SSID              : UCSD-PROTECTED
+MAC Address       : 00-F6-63-A1-6B-80
+PHY Type          : 802.11g/n
+RSSI              : -80
+Signal Quality    : 48
+Average Signal Quality: 48.0
+Frequency         : 2.412
+Channel           : 1
+Information Size  : 259
+Elements Count    : 22
+Company           : Cisco Systems, Inc
+Router Model      : 
+Router Name       : 
+Security          : WPA2-EAP
+Cipher            : CCMP
+Maximum Speed     : 216 Mbps
+Channel Width     : 20 MHz
+Channels Range    : 1 - 3
+BSS Type          : Infrastructure
+WPS Support       : No
+First Detection   : 3/17/2018 6:09:27 PM
+Last Detection    : 3/17/2018 6:09:27 PM
+Detection Count   : 1
+Start Time        : 2/7/2018 4:30:59 PM
+Minimum Signal Quality: 48
+Maximum Signal Quality: 48
+802.11 Standards  : 802.11d/e/h/i
+Connected         : No
+Stations Count    : 2
+Channel Utilization: 45.5%
+Description       : 
+==================================================
+

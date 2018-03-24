@@ -1,0 +1,171 @@
+==== A0-3D-6F-4C-9D-CF ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 16.208099999999998,
+  max: 22.567,
+  min: 15.04,
+  results: 
+   [ { seq: 0, time: 22.567 },
+     { seq: 1, time: 17.495 },
+     { seq: 2, time: 15.092 },
+     { seq: 3, time: 15.04 },
+     { seq: 4, time: 15.493 },
+     { seq: 5, time: 15.154 },
+     { seq: 6, time: 15.481 },
+     { seq: 7, time: 15.205 },
+     { seq: 8, time: 15.237 },
+     { seq: 9, time: 15.317 } ] }
+==== 00-6B-F1-A7-08-A0 ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 11.880899999999999,
+  max: 66.797,
+  min: 3.617,
+  results: 
+   [ { seq: 0, time: 5.9 },
+     { seq: 1, time: 7.701 },
+     { seq: 2, time: 6.848 },
+     { seq: 3, time: 8.304 },
+     { seq: 4, time: 5.11 },
+     { seq: 5, time: 3.617 },
+     { seq: 6, time: 66.797 },
+     { seq: 7, time: 4.125 },
+     { seq: 8, time: 4.648 },
+     { seq: 9, time: 5.759 } ] }
+==== F0-7F-06-E0-2F-40 ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 4.806499999999999,
+  max: 11.397,
+  min: 3.254,
+  results: 
+   [ { seq: 0, time: 11.397 },
+     { seq: 1, time: 3.735 },
+     { seq: 2, time: 3.946 },
+     { seq: 3, time: 3.731 },
+     { seq: 4, time: 3.254 },
+     { seq: 5, time: 4.122 },
+     { seq: 6, time: 3.942 },
+     { seq: 7, time: 3.998 },
+     { seq: 8, time: 4.369 },
+     { seq: 9, time: 5.571 } ] }
+==== 00-6B-F1-F5-7C-A0 ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 9.071200000000001,
+  max: 30.728,
+  min: 3.45,
+  results: 
+   [ { seq: 0, time: 12.627 },
+     { seq: 1, time: 8.242 },
+     { seq: 2, time: 5.619 },
+     { seq: 3, time: 30.728 },
+     { seq: 4, time: 13.757 },
+     { seq: 5, time: 3.45 },
+     { seq: 6, time: 4.236 },
+     { seq: 7, time: 3.86 },
+     { seq: 8, time: 3.654 },
+     { seq: 9, time: 4.539 } ] }
+==== A0-3D-6F-3A-BA-EF ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 15.6177,
+  max: 29.157,
+  min: 5.091,
+  results: 
+   [ { seq: 0, time: 29.157 },
+     { seq: 1, time: 5.091 },
+     { seq: 2, time: 15.504 },
+     { seq: 3, time: 15.173 },
+     { seq: 4, time: 15.865 },
+     { seq: 5, time: 14.201 },
+     { seq: 6, time: 15.223 },
+     { seq: 7, time: 15.202 },
+     { seq: 8, time: 14.985 },
+     { seq: 9, time: 15.776 } ] }
+==== 00-6B-F1-A7-08-AF ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 6.287800000000001,
+  max: 12.92,
+  min: 3.381,
+  results: 
+   [ { seq: 0, time: 12.92 },
+     { seq: 1, time: 5.375 },
+     { seq: 2, time: 4.413 },
+     { seq: 3, time: 3.381 },
+     { seq: 4, time: 5.781 },
+     { seq: 5, time: 4.352 },
+     { seq: 6, time: 4.171 },
+     { seq: 7, time: 6.355 },
+     { seq: 8, time: 12.366 },
+     { seq: 9, time: 3.764 } ] }
+==== A0-3D-6F-0B-A4-CF ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 305.40779999999995,
+  max: 3010.919,
+  min: 3.017,
+  results: 
+   [ { seq: 0, time: 3010.919 },
+     { seq: 1, time: 9.63 },
+     { seq: 2, time: 6.113 },
+     { seq: 3, time: 5.758 },
+     { seq: 4, time: 3.568 },
+     { seq: 5, time: 3.447 },
+     { seq: 6, time: 3.017 },
+     { seq: 7, time: 3.805 },
+     { seq: 8, time: 3.894 },
+     { seq: 9, time: 3.927 } ] }
+==== F0-7F-06-E0-2F-4F ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 14.222000000000003,
+  max: 15.685,
+  min: 8.208,
+  results: 
+   [ { seq: 0, time: 12.386 },
+     { seq: 1, time: 8.208 },
+     { seq: 2, time: 15.131 },
+     { seq: 3, time: 15.364 },
+     { seq: 4, time: 15.28 },
+     { seq: 5, time: 15.209 },
+     { seq: 6, time: 15.685 },
+     { seq: 7, time: 15.18 },
+     { seq: 8, time: 15.513 },
+     { seq: 9, time: 14.264 } ] }
+==== 00-6B-F1-F5-7C-AF ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 106.24410000000003,
+  max: 508.811,
+  min: 3.827,
+  results: 
+   [ { seq: 0, time: 6.319 },
+     { seq: 1, time: 4.98 },
+     { seq: 2, time: 5.208 },
+     { seq: 3, time: 3.827 },
+     { seq: 4, time: 5.1 },
+     { seq: 5, time: 4.596 },
+     { seq: 6, time: 508.811 },
+     { seq: 7, time: 502.673 },
+     { seq: 8, time: 5.757 },
+     { seq: 9, time: 15.17 } ] }

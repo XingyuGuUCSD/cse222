@@ -1,0 +1,27 @@
+==== A0-3D-6F-4C-9D-CF ====
+2018-03-07 16:45:44 (13.6 MB/s) - ‘ExtraSensory.per_uuid_features_labels.zip’ saved [225374973/225374973]
+
+==== 00-6B-F1-A7-08-A0 ====
+2018-03-07 16:51:08 (891 KB/s) - ‘ExtraSensory.per_uuid_features_labels.zip’ saved [225374973/225374973]
+
+==== F0-7F-06-E0-2F-40 ====
+2018-03-07 16:53:41 (1.75 MB/s) - ‘ExtraSensory.per_uuid_features_labels.zip’ saved [225374973/225374973]
+
+==== 00-6B-F1-F5-7C-A0 ====
+2018-03-07 16:58:14 (1.43 MB/s) - ‘ExtraSensory.per_uuid_features_labels.zip’ saved [225374973/225374973]
+
+==== A0-3D-6F-3A-BA-EF ====
+2018-03-07 16:58:54 (21.6 MB/s) - ‘ExtraSensory.per_uuid_features_labels.zip’ saved [225374973/225374973]
+
+==== 00-6B-F1-A7-08-AF ====
+2018-03-07 17:01:22 (2.61 MB/s) - ‘ExtraSensory.per_uuid_features_labels.zip’ saved [225374973/225374973]
+
+==== A0-3D-6F-0B-A4-CF ====
+2018-03-07 17:03:51 (4.31 MB/s) - ‘ExtraSensory.per_uuid_features_labels.zip’ saved [225374973/225374973]
+
+==== F0-7F-06-E0-2F-4F ====
+2018-03-07 17:04:30 (10.5 MB/s) - ‘ExtraSensory.per_uuid_features_labels.zip’ saved [225374973/225374973]
+
+==== 00-6B-F1-F5-7C-AF ====
+2018-03-07 17:05:55 (6.80 MB/s) - ‘ExtraSensory.per_uuid_features_labels.zip’ saved [225374973/225374973]
+

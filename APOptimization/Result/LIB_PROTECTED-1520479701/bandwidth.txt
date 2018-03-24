@@ -1,0 +1,46 @@
+==== 00-2C-C8-34-1C-EF ====
+2018-03-07 18:02:58 (14.2 MB/s) - ‘ExtraSensory.per_uuid_features_labels.zip’ saved [225374973/225374973]
+
+==== 00-2C-C8-34-1C-E0 ====
+2018-03-07 18:09:29 (623 KB/s) - ‘ExtraSensory.per_uuid_features_labels.zip’ saved [225374973/225374973]
+
+==== 84-3D-C6-90-96-F0 ====
+2018-03-07 18:12:05 (1.59 MB/s) - ‘ExtraSensory.per_uuid_features_labels.zip’ saved [225374973/225374973]
+
+==== 84-3D-C6-90-96-FF ====
+2018-03-07 18:13:52 (7.45 MB/s) - ‘ExtraSensory.per_uuid_features_labels.zip’ saved [225374973/225374973]
+
+==== 00-2C-C8-34-1D-0F ====
+2018-03-07 18:14:56 (10.6 MB/s) - ‘ExtraSensory.per_uuid_features_labels.zip’ saved [225374973/225374973]
+
+==== 84-3D-C6-70-C7-30 ====
+2018-03-07 18:30:21 (248 KB/s) - ‘ExtraSensory.per_uuid_features_labels.zip’ saved [225374973/225374973]
+
+==== E8-65-49-70-28-00 ====
+2018-03-07 18:51:36 (201 KB/s) - ‘ExtraSensory.per_uuid_features_labels.zip’ saved [225374973/225374973]
+
+==== F8-4F-57-85-16-BF ====
+2018-03-07 18:57:41 (8.17 MB/s) - ‘ExtraSensory.per_uuid_features_labels.zip’ saved [225374973/225374973]
+
+==== E8-65-49-70-28-0F ====
+2018-03-07 18:59:40 (4.29 MB/s) - ‘ExtraSensory.per_uuid_features_labels.zip’ saved [225374973/225374973]
+
+==== E8-65-49-62-4C-DF ====
+==== 00-24-97-F0-CE-2F ====
+2018-03-07 19:06:59 (4.24 MB/s) - ‘ExtraSensory.per_uuid_features_labels.zip.1’ saved [225374973/225374973]
+
+==== 00-2C-C8-34-00-8F ====
+2018-03-07 19:07:32 (14.8 MB/s) - ‘ExtraSensory.per_uuid_features_labels.zip’ saved [225374973/225374973]
+
+==== 2C-33-11-5D-D5-CF ====
+Resolving extrasensory.ucsd.edu (extrasensory.ucsd.edu)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address ‘extrasensory.ucsd.edu’
+==== 84-3D-C6-70-C7-3F ====
+2018-03-07 19:13:58 (14.0 MB/s) - ‘ExtraSensory.per_uuid_features_labels.zip’ saved [225374973/225374973]
+
+==== E8-65-49-5C-BF-2F ====
+2018-03-07 19:20:19 (951 KB/s) - ‘ExtraSensory.per_uuid_features_labels.zip’ saved [225374973/225374973]
+
+==== 00-24-97-F0-D0-5F ====
+2018-03-07 19:27:03 (723 KB/s) - ‘ExtraSensory.per_uuid_features_labels.zip’ saved [225374973/225374973]
+

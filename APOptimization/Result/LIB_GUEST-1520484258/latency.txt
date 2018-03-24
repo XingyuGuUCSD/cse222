@@ -1,0 +1,247 @@
+==== 00-24-97-F0-D0-5D ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 6.631,
+  max: 12.237,
+  min: 3.315,
+  results: 
+   [ { seq: 0, time: 12.237 },
+     { seq: 1, time: 3.861 },
+     { seq: 2, time: 3.87 },
+     { seq: 3, time: 3.315 },
+     { seq: 4, time: 7.505 },
+     { seq: 5, time: 4.549 },
+     { seq: 6, time: 6.513 },
+     { seq: 7, time: 11.96 },
+     { seq: 8, time: 8.553 },
+     { seq: 9, time: 3.947 } ] }
+==== E8-65-49-70-2D-CD ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 306.9667,
+  max: 3019.278,
+  min: 3.063,
+  results: 
+   [ { seq: 0, time: 3019.278 },
+     { seq: 1, time: 7.731 },
+     { seq: 2, time: 4.316 },
+     { seq: 3, time: 3.587 },
+     { seq: 4, time: 3.983 },
+     { seq: 5, time: 4.412 },
+     { seq: 6, time: 11.233 },
+     { seq: 7, time: 4.556 },
+     { seq: 8, time: 7.508 },
+     { seq: 9, time: 3.063 } ] }
+==== 00-2C-C8-34-1C-E2 ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 17.6784,
+  max: 46.486,
+  min: 4.147,
+  results: 
+   [ { seq: 0, time: 36.366 },
+     { seq: 1, time: 46.486 },
+     { seq: 2, time: 15.025 },
+     { seq: 3, time: 22.356 },
+     { seq: 4, time: 14.175 },
+     { seq: 5, time: 14.896 },
+     { seq: 6, time: 5.003 },
+     { seq: 7, time: 4.147 },
+     { seq: 8, time: 4.969 },
+     { seq: 9, time: 13.361 } ] }
+==== 84-3D-C6-90-96-F2 ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 47.567800000000005,
+  max: 77.658,
+  min: 12.898,
+  results: 
+   [ { seq: 0, time: 63.367 },
+     { seq: 1, time: 77.658 },
+     { seq: 2, time: 46.041 },
+     { seq: 3, time: 40.493 },
+     { seq: 4, time: 42.266 },
+     { seq: 5, time: 26.504 },
+     { seq: 6, time: 71.797 },
+     { seq: 7, time: 12.898 },
+     { seq: 8, time: 33.715 },
+     { seq: 9, time: 60.939 } ] }
+==== 84-3D-C6-90-96-FD ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 8.6815,
+  max: 24.024,
+  min: 3.921,
+  results: 
+   [ { seq: 0, time: 24.024 },
+     { seq: 1, time: 12.273 },
+     { seq: 2, time: 10.486 },
+     { seq: 3, time: 3.921 },
+     { seq: 4, time: 6.194 },
+     { seq: 5, time: 5.114 },
+     { seq: 6, time: 5.313 },
+     { seq: 7, time: 7.982 },
+     { seq: 8, time: 6.761 },
+     { seq: 9, time: 4.747 } ] }
+==== E8-65-49-70-28-02 ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 64.0108,
+  max: 157.287,
+  min: 10.577,
+  results: 
+   [ { seq: 0, time: 40.854 },
+     { seq: 1, time: 47.962 },
+     { seq: 2, time: 108.628 },
+     { seq: 3, time: 90.697 },
+     { seq: 4, time: 10.577 },
+     { seq: 5, time: 24.252 },
+     { seq: 6, time: 157.287 },
+     { seq: 7, time: 110.649 },
+     { seq: 8, time: 18.221 },
+     { seq: 9, time: 30.981 } ] }
+==== 00-2C-C8-34-1D-0D ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 5.5717,
+  max: 7.051,
+  min: 4.418,
+  results: 
+   [ { seq: 0, time: 7.051 },
+     { seq: 1, time: 7.039 },
+     { seq: 2, time: 6 },
+     { seq: 3, time: 4.418 },
+     { seq: 4, time: 5.45 },
+     { seq: 5, time: 5.025 },
+     { seq: 6, time: 5.259 },
+     { seq: 7, time: 4.577 },
+     { seq: 8, time: 5.838 },
+     { seq: 9, time: 5.06 } ] }
+==== 84-3D-C6-70-C7-32 ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 39.583299999999994,
+  max: 78.898,
+  min: 7.393,
+  results: 
+   [ { seq: 0, time: 26.832 },
+     { seq: 1, time: 78.898 },
+     { seq: 2, time: 31.859 },
+     { seq: 3, time: 55.482 },
+     { seq: 4, time: 13.813 },
+     { seq: 5, time: 42.507 },
+     { seq: 6, time: 50.659 },
+     { seq: 7, time: 18.345 },
+     { seq: 8, time: 70.045 },
+     { seq: 9, time: 7.393 } ] }
+==== E8-65-49-70-28-0D ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 4.4298,
+  max: 14.974,
+  min: 2.51,
+  results: 
+   [ { seq: 0, time: 14.974 },
+     { seq: 1, time: 3.019 },
+     { seq: 2, time: 2.51 },
+     { seq: 3, time: 2.548 },
+     { seq: 4, time: 4.984 },
+     { seq: 5, time: 2.977 },
+     { seq: 6, time: 3.524 },
+     { seq: 7, time: 3.408 },
+     { seq: 8, time: 2.558 },
+     { seq: 9, time: 3.796 } ] }
+==== 00-2C-C8-34-00-8D ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 8.015899999999998,
+  max: 24.275,
+  min: 4.259,
+  results: 
+   [ { seq: 0, time: 24.275 },
+     { seq: 1, time: 5.755 },
+     { seq: 2, time: 5.638 },
+     { seq: 3, time: 6.393 },
+     { seq: 4, time: 5.962 },
+     { seq: 5, time: 8.558 },
+     { seq: 6, time: 4.259 },
+     { seq: 7, time: 6.865 },
+     { seq: 8, time: 6.003 },
+     { seq: 9, time: 6.451 } ] }
+==== 2C-33-11-5D-D5-CD ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 5.018600000000001,
+  max: 15.143,
+  min: 2.625,
+  results: 
+   [ { seq: 0, time: 15.143 },
+     { seq: 1, time: 7.581 },
+     { seq: 2, time: 2.807 },
+     { seq: 3, time: 2.833 },
+     { seq: 4, time: 2.625 },
+     { seq: 5, time: 4.173 },
+     { seq: 6, time: 3.88 },
+     { seq: 7, time: 4.456 },
+     { seq: 8, time: 3.746 },
+     { seq: 9, time: 2.942 } ] }
+==== 84-3D-C6-70-C7-3D ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 5.6638,
+  max: 13.356,
+  min: 3.782,
+  results: 
+   [ { seq: 0, time: 13.356 },
+     { seq: 1, time: 4.849 },
+     { seq: 2, time: 4.017 },
+     { seq: 3, time: 8.191 },
+     { seq: 4, time: 5.828 },
+     { seq: 5, time: 3.782 },
+     { seq: 6, time: 4.765 },
+     { seq: 7, time: 3.993 },
+     { seq: 8, time: 4.027 },
+     { seq: 9, time: 3.83 } ] }
+==== 00-24-97-F0-CE-2D ====
+true
+{ address: '132.239.8.164',
+  port: 80,
+  attempts: 10,
+  avg: 5.5725,
+  max: 9.172,
+  min: 4.142,
+  results: 
+   [ { seq: 0, time: 6 },
+     { seq: 1, time: 5.715 },
+     { seq: 2, time: 4.198 },
+     { seq: 3, time: 4.779 },
+     { seq: 4, time: 5.215 },
+     { seq: 5, time: 9.172 },
+     { seq: 6, time: 4.142 },
+     { seq: 7, time: 4.641 },
+     { seq: 8, time: 6.577 },
+     { seq: 9, time: 5.286 } ] }
